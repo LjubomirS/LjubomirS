@@ -1,6 +1,6 @@
 ### Ljubomir Stevancevic - Junior PHP Developer
 
-👋 Hi, I'm Ljubomir, a Junior PHP Developer with a passion for programming and a background in economics. I've spent seven years in the banking industry and two years working for a remote email company. My love for coding led me to make a career switch.
+👋 Hi, I'm Ljubomir, a Junior PHP Developer with a passion for programming and a background in economics. I've spent seven years in the banking industry and three years working for a remote email company. My love for coding led me to make a career switch.
 
 🎓 I hold a degree in Web Design from IT Academy, and I'm currently a student at Jagaad Academy, where I'm honing my skills in Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming.
 

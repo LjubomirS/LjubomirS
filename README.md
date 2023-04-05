@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Ljubomir, a Junior PHP Developer with a passion for programming and a background in economics. I've spent seven years in the banking industry and three years working for a remote email company. My love for coding led me to make a career switch.
 
-🎓 I hold a degree in Web Design from IT Academy, and I'm currently a student at Jagaad Academy, where I'm honing my skills in Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming.
+🎓 I hold a degree in Web Design from IT Academy, and I studied at Jagaad Academy, where I honed my skills in Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming.
 
 👨‍💻 On my GitHub profile, you can find a selection of projects that I've worked on covering different topics that I'm studying. I'm always learning and striving to improve my code, so I welcome any feedback or contributions you might have.
 

@@ -11,6 +11,6 @@
 
 I'm always learning and striving to improve my code, so I welcome any feedback or contributions you might have.
 
-🔍 I'm currently looking for opportunities to work as a junior developer, and I'm excited about the prospect of contributing to great solutions and continuing to develop my skills. If you'd like to get in touch, you can find me on LinkedIn. Alternatively, feel free to drop me an email - I'd love to hear from you!
+🔍 I'm currently looking for opportunities to work as a junior developer, and I'm excited about the prospect of contributing to great solutions and continuing to develop my skills. If you'd like to get in touch, you can find me on [LinkedIn](https://www.linkedin.com/in/ljubomir-stevancevic/). Alternatively, feel free to [drop me an email](mailto:ljubomir.stevancevic@gmail.com) - I'd love to hear from you!
 
 

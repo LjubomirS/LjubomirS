@@ -3,7 +3,7 @@
 👋 Hi, I'm Ljubomir, a Junior PHP Developer with a passion for programming and a background in economics. I've spent seven years in the banking industry and three years working for a remote email company. My love for coding led me to make a career switch. I'm always learning and striving to improve my code, so I welcome any feedback or contributions you might have.
 
 💻 On my GitHub profile, you can find a selection of projects that I've worked on covering different topics that I'm studying:
-* [Jobify-API](https://github.com/LjubomirS/Jobify-API) - REST API built with Symfony for a job board
+* [Jobify-API](https://github.com/LjubomirS/Jobify-API) - REST API for a job board built with Symfony 
 * [BlogAPI](https://github.com/LjubomirS/BlogAPI) - REST API to handle requests for a blog post built with Slim, Swagger/OpenAPI, PHPStan, and CodeSniffer
 * [Carty-Craft](https://github.com/LjubomirS/Carty-Craft) - web app that utilizes OOP, MySQL, PDO, and Composer to build shopping platform with CRUD functionality
 

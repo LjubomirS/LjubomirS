@@ -9,6 +9,6 @@
 
 🎓 I hold a degree in Web Design from IT Academy, and I studied at Jagaad Academy, where I honed my skills in Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming. 
 
-🔍 I'm currently looking for opportunities to work as a junior developer, and I'm excited about the prospect of contributing to great solutions and continuing to develop my skills. If you'd like to get in touch, you can find me on [LinkedIn](https://www.linkedin.com/in/ljubomir-stevancevic/). Alternatively, feel free to [drop me an email](mailto:ljubomir.stevancevic@gmail.com) - I'd love to hear from you!
+🔍 I'm currently looking for opportunities to work as a junior developer, and I'm excited about the prospect of contributing to great solutions and continuing to develop my skills. If you'd like to get in touch, you can find me on [LinkedIn](https://www.linkedin.com/in/ljubomir-stevancevic/). Alternatively, feel free to drop me an [email](mailto:ljubomir.stevancevic@gmail.com) - I'd love to hear from you!
 
 
